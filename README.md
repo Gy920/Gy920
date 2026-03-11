@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there 👋, welcome to [Guiyong Zheng](https://gy920.github.io/)'s GitHub page!
 
-<!--
-**Gy920/Gy920** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I'm Guiyong Zheng (郑桂勇), an MPhil student at [Sun Yat-sen University](https://www.sysu.edu.cn/), supervised by [Prof. Boyu Zhou](https://robotics-star.com/people) and [Prof. Juepeng Zheng](https://sai.sysu.edu.cn/teacher/246). Prior to this, I received my B.Eng. from [Xidian University](https://en.xidian.edu.cn/).
+- 🌱 I am currently working on **Generative Models for Robotics, Vision-Language Navigation, and 3D Active Reconstruction**.
+- 💡 I'm also very interested in **Agentic Robotics** and **VLA**, and I enjoy contributing to the open-source community.
+- 💼 I have also been a visiting researcher at [STAR Group](https://robotics-star.com/) since January 2023 and a research intern at [IDEA Research](https://idea.edu.cn/) since April 2025.
+- 💬 For more information, please visit my [Personal Website](https://gy920.github.io/).
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+<span>  </span>
+<img height="180px" align="center" src="https://github-readme-stats-one-bice.vercel.app/api?username=Gy920&show_icons=true&theme=buefy&hide_border=false&count_private=true&include_orgs=true&role=OWNER,COLLABORATOR" />
+<span>  </span>
+</div>
